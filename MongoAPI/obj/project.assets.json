@@ -13696,11 +13696,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Michael Steinmejer\\source\\repos\\MongoAPI\\MongoAPI\\MongoAPI.csproj",
+      "projectUniqueName": "C:\\Source\\MongoAPI\\MongoAPI\\MongoAPI.csproj",
       "projectName": "MongoAPI",
-      "projectPath": "C:\\Users\\Michael Steinmejer\\source\\repos\\MongoAPI\\MongoAPI\\MongoAPI.csproj",
+      "projectPath": "C:\\Source\\MongoAPI\\MongoAPI\\MongoAPI.csproj",
       "packagesPath": "C:\\Users\\Michael Steinmejer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Michael Steinmejer\\source\\repos\\MongoAPI\\MongoAPI\\obj\\",
+      "outputPath": "C:\\Source\\MongoAPI\\MongoAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

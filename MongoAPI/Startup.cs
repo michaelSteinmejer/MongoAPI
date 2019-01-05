@@ -26,6 +26,7 @@ namespace MongoAPI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddCors();
             services.AddScoped<CustomerService>();
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }
@@ -42,6 +43,12 @@ namespace MongoAPI
                 app.UseHsts();
             }
 
+            app.UseCors(
+                options =>
+                {
+                    options.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
+                    //options.WithOrigins("my.com").WithMethods("GET"); begrænset til at kun at bruge GET request, for my.com
+                });
             app.UseHttpsRedirection();
             app.UseMvc();
         }

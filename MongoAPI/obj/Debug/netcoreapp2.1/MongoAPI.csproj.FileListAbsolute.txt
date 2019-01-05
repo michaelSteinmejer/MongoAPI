@@ -1,0 +1,14 @@
+C:\Users\Michael Steinmejer\source\repos\MongoAPI\MongoAPI\bin\Debug\netcoreapp2.1\MongoAPI.deps.json
+C:\Users\Michael Steinmejer\source\repos\MongoAPI\MongoAPI\bin\Debug\netcoreapp2.1\MongoAPI.runtimeconfig.json
+C:\Users\Michael Steinmejer\source\repos\MongoAPI\MongoAPI\bin\Debug\netcoreapp2.1\MongoAPI.runtimeconfig.dev.json
+C:\Users\Michael Steinmejer\source\repos\MongoAPI\MongoAPI\bin\Debug\netcoreapp2.1\MongoAPI.dll
+C:\Users\Michael Steinmejer\source\repos\MongoAPI\MongoAPI\obj\Debug\netcoreapp2.1\MongoAPI.csprojAssemblyReference.cache
+C:\Users\Michael Steinmejer\source\repos\MongoAPI\MongoAPI\obj\Debug\netcoreapp2.1\MongoAPI.csproj.CoreCompileInputs.cache
+C:\Users\Michael Steinmejer\source\repos\MongoAPI\MongoAPI\obj\Debug\netcoreapp2.1\MongoAPI.RazorAssemblyInfo.cache
+C:\Users\Michael Steinmejer\source\repos\MongoAPI\MongoAPI\obj\Debug\netcoreapp2.1\MongoAPI.RazorAssemblyInfo.cs
+C:\Users\Michael Steinmejer\source\repos\MongoAPI\MongoAPI\obj\Debug\netcoreapp2.1\MongoAPI.AssemblyInfoInputs.cache
+C:\Users\Michael Steinmejer\source\repos\MongoAPI\MongoAPI\obj\Debug\netcoreapp2.1\MongoAPI.AssemblyInfo.cs
+C:\Users\Michael Steinmejer\source\repos\MongoAPI\MongoAPI\obj\Debug\netcoreapp2.1\MongoAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Michael Steinmejer\source\repos\MongoAPI\MongoAPI\bin\Debug\netcoreapp2.1\MongoAPI.pdb
+C:\Users\Michael Steinmejer\source\repos\MongoAPI\MongoAPI\obj\Debug\netcoreapp2.1\MongoAPI.dll
+C:\Users\Michael Steinmejer\source\repos\MongoAPI\MongoAPI\obj\Debug\netcoreapp2.1\MongoAPI.pdb
